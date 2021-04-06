@@ -7,3 +7,5 @@ car(fiat,uno,55,italy,1050,hatchback,5200).
 
 % Queerie.
 car(Man,Mod,Trim,Origin,Cc,Type,Price),(Price < 1600).
+
+% LEEFT OF ON NUMBER 2 on page 29.
